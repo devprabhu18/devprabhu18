@@ -14,7 +14,7 @@
 <div align="center">
 
 <h3 align="center">"I love the smell of coffee in the morning, especially when I'm coding."</h3>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=devprabhu18&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=devprabhu18&theme=dark" alt="GitHub Streak" /></a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
