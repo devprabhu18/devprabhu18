@@ -7,7 +7,7 @@
 
 - 🌱 I'm currently focused on learning full-stack and cross-platform development.
 - 📫 You can reach me at devanandaprabhu18@gmail.com.
-- ⚡ Fun fact: I'm a big fan of reading books and I also enjoy watching MotoGP.
+- ⚡ Fun fact: I'm a big fan of Cricket and I like reading books.
 
 <hr>
 
